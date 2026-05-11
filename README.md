@@ -127,4 +127,6 @@ License
 This project is for academic and research purposes. Please refer to the original Optiver competition rules for dataset usage.
 
 Author: Mehmet Fatih Çiftaslan
-Course: Data Science for Economics, University of Milan, 2026
+
+Course: Data Science for Economics, 
+University of Milan, 2026
